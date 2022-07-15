@@ -3,11 +3,13 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Introduction
-VideoGameDB is a web application that enables you to search the top video games based on certain categores an view informations on about such as metacritic, lkes, dislikes, screenshot(s) and video(s) of gameplay and more... This application was built using Angular, Typescript and Sass.
+This web application enables you to search the top video games based on certain categories, and view information on them such as Metacritic, likes, dislikes, screenshot(s) and video(s) of gameplay and more... 
+The data on the video game are extracted in real-time from an auto-updated server. 
+The core technologies used in building this web application are: Angular, Typescript and Sass.
 
 ## Setup / Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/` to view the application in your web browser.
+Clone this repository into your machine and run `ng serve` for a dev server. Navigate to `http://localhost:4200/` to view the application in your web browser.
 
 ## Live Version
 Visit https://video-games-db.vercel.app to vew the live version of this web application.
