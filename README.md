@@ -5,10 +5,13 @@
 ![video-gameDB-04](https://user-images.githubusercontent.com/76836006/165224997-1a6e24c1-8478-456c-8aeb-f70ded6ba5cf.JPG)
 
 ## Introduction
-This web application enables you to search the top video games based on certain categories, and view information on them such as Metacritic, likes, dislikes, screenshot(s) and video(s) of gameplay and more... 
+This web application enables you to search the top video games based on certain categories, and view information on them such as Metacritic, likes, dislikes, screenshot(s) and video(s) of gameplay and more... <br />
 The data on the video game are extracted in real-time from an auto-updated server. 
-The core technologies used in building this web application are: Angular, Typescript and Sass.
 
+## STACK
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/Exclusiveideas)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Exclusiveideas)
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/Exclusiveideas)
 
 ## Installation/Setup Steps 
 **1. First clone the project by running** <br />
