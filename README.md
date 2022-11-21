@@ -15,7 +15,7 @@ The data on the video game are extracted in real-time from an auto-updated serve
 
 ## Installation/Setup Steps 
 **1. First clone the project by running** <br />
-   ``` git clone https://github.com/<your-username>/Video-Games-database.git ```
+   ``` git clone https://github.com/Exclusiveideas/Video-Games-database.git ```
 <br />
 
 **2. Go into the project directory**  <br />
